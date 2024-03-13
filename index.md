@@ -1,3 +1,8 @@
+--
+title: Home
+layout: home
+--
+
 Tecnologías Empleadas
 Bibliotecas y Frameworks:
     • React (v18.2.0): Biblioteca de JavaScript para construir interfaces de usuario interactivas y componentes reutilizables.
